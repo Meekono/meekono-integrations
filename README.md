@@ -42,7 +42,7 @@ The developer will help connect and automate across vendor onboarding, buyer eng
   - Product upload
   - Vendor order tracking
      
-  **4. Data Sync**
+  **4. Data Sync:**
     - Ensure consistent data flow between systems including:
     - Customer records
     - Vendor profiles
